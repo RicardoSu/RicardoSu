@@ -1,6 +1,4 @@
-### 
 
----
 
 <div align="center">
 
@@ -10,11 +8,10 @@
 
    </div>
 
----
 
   
 <p align=”center”>
 <a href=”https://www.linkedin.com/in/ricardo-suarez-lima/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<img src=”https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black">
 </a>
 </p>
