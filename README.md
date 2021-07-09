@@ -8,11 +8,3 @@
 
    ---
 
-<div align="center">
-
-![Ricardo Suarez' github stats](https://github-readme-stats.vercel.app/api?username=RicardoSu&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSu&theme=dark)](https://github.com/RicardoSu/github-readme-stats)
-
-</div>
-
